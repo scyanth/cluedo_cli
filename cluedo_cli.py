@@ -1,7 +1,7 @@
 import random
 import time
 
-print("-------Cluedo entre bots -------")
+print("-------Cluedo CLI -------")
 
 # nombre de joueurs (de 3 à 6)
 nbjoueurs = 3
